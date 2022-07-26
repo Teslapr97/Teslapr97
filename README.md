@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teslapr97
-- Born and raised in Caguas, Puerto Rico :puerto_rico:
+- Born and raised in Caguas, Puerto Rico
 - I am an electrical engineer with an interest in programming and industrial automation.
 - 👀 I’m interested in software engineering, web development and industrial automation programming (PLC)
 - 🌱 I’m currently learning front-end development to create websites and python for back-end development.
